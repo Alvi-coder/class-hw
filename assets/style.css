@@ -1,0 +1,105 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: grey;
+}
+
+.body {}
+
+.container {
+    width: 1140px;
+    margin: 0px auto;
+}
+
+.just {
+    width: 50%;
+    float: left;
+    padding: 25px 0px;
+}
+
+.just h2 {
+    font-size: 35px;
+    line-height: 42px;
+    color: white;
+    font-weight: 300;
+}
+
+.just p {
+    font-size: 15px;
+    color: white;
+    margin: 5px 0px;
+}
+
+.just ul {
+    margin: 15px 0px;
+}
+
+.just ul li {
+    list-style: none;
+    margin: 5px -2px;
+    color: white;
+    font-size: 18px;
+}
+
+.learn {
+    padding: 7px 30px;
+    background-color: cyan;
+    font-size: 13px;
+    font-weight: 800;
+    color: white;
+    border-radius: 25px;
+    border: none;
+}
+
+.box {
+    width: 50%;
+    float: left;
+    padding: 25px 0px;
+    text-align: center;
+
+}
+
+.border h3 {
+    font-size: 35px;
+    font-weight: 300;
+    color: white;
+    background-color: cornflowerblue;
+}
+
+.border p {
+    font-size: 15px;
+    margin: 4px 104px;
+    color: white;
+    background-color: cornflowerblue;
+    margin-bottom: 20px;
+}
+
+
+.bo {
+    background-color: cornflowerblue;
+}
+
+.x {
+    padding: 5px;
+    padding-right: 165px;
+    margin: 5px;
+    background-color: white;
+    border: none;
+}
+
+.r {
+    padding: 6px 116px;
+    color: white;
+    border: none;
+    background-color: blue;
+    cursor: pointer;
+    box-shadow: 1px 2px 3px blanchedalmond;
+}
+
+.boxe {}
+
+.border {
+    background-color: cornflowerblue;
+    padding: 23px 0px;
+    padding-bottom: 50px;
+}
